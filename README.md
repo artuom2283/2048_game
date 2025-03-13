@@ -34,8 +34,8 @@ Play online: [2048 Game](https://artuom2283.github.io/2048_game/)
 - Merge tiles with the same numbers to reach 2048.
 - The game ends when no more moves are possible.
 
-## 📜 License
-This project is licensed under the MIT License – feel free to use it for personal and commercial purposes without restrictions.
+## 📄 License
+This project is open-source and available under the [MIT License](LICENSE).
 
-😎 Enjoy the game!
+## 😎 Enjoy the game!
 
